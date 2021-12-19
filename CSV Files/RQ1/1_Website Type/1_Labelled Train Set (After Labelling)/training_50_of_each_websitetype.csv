@@ -1,0 +1,400 @@
+Unnamed: 0,URL Name,URL Sub Domain,URL Domain,Repetition,Web Type,Web Content
+5.0,https://stackoverflow.com/help/privileges/edit,,stackoverflow.com,180,Blog Post,Opinion/Specialty
+8.0,https://stackoverflow.com/help/privileges/comment,,stackoverflow.com,93,Blog Post,Opinion/Specialty
+23.0,https://stackoverflow.com/help/referencing,,stackoverflow.com,83,Blog Post,Opinion/Specialty
+24.0,https://stackoverflow.com/help/how-to-answer,,stackoverflow.com,119,Blog Post,Opinion/Specialty
+30.0,https://stackoverflow.com/editing-help,,stackoverflow.com,41,Blog Post,Example
+41.0,https://stackoverflow.blog/2018/11/21/our-theory-of-moderation-re-visited/,,stackoverflow.blog,3,Blog Post,Opinion/Specialty
+44.0,https://blog.libsyn.com/2016/01/12/how-to-get-your-podcast-into-spotify/,blog,libsyn.com,1,Blog Post,Tutorial
+51.0,http://archive.is/kTKqG,,archive.is,1,Blog Post,Opinion/Specialty
+57.0,https://stackoverflow.com/help/roomba,,stackoverflow.com,84,Blog Post,Opinion/Specialty
+75.0,https://blog.stackoverflow.com/2009/04/a-day-in-the-penalty-box/,blog,stackoverflow.com,13,Blog Post,Opinion/Specialty
+81.0,http://blog.codinghorror.com/this-is-what-happens-when-you-let-developers-create-ui/,blog,codinghorror.com,1,Blog Post,Opinion/Specialty
+89.0,https://stackoverflow.blog/2013/06/25/the-war-of-the-closes/,,stackoverflow.blog,5,Blog Post,Opinion/Specialty
+109.0,https://blog.stackoverflow.com/2013/09/five-years-ago-stack-overflow-launched-then-a-miracle-occurred/,blog,stackoverflow.com,2,Blog Post,Opinion/Specialty
+115.0,https://stackoverflow.com/help/whats-reputation,,stackoverflow.com,103,Blog Post,Opinion/Specialty
+133.0,https://stackoverflow.blog/2015/04/07/stack-overflow-developer-survey-2015-the-results/,,stackoverflow.blog,4,Blog Post,Other
+141.0,https://codereview.stackexchange.com/help/on-topic,codereview,stackexchange.com,50,Blog Post,Opinion/Specialty
+149.0,https://stackoverflow.com/election/6?tab=nomination&all=true#post-29479494,,stackoverflow.com,2,Blog Post,Other
+188.0,https://softwareengineering.stackexchange.com/help/on-topic,softwareengineering,stackexchange.com,38,Blog Post,Opinion/Specialty
+204.0,https://blog.stackoverflow.com/2014/09/introducing-runnable-javascript-css-and-html-code-snippets/,blog,stackoverflow.com,20,Blog Post,Tutorial
+258.0,https://stackoverflow.com/help/badges/1101/css-selectors,,stackoverflow.com,1,Blog Post,Opinion/Specialty
+270.0,https://workplace.stackexchange.com/help/on-topic,workplace,stackexchange.com,8,Blog Post,Opinion/Specialty
+283.0,https://stackoverflow.com/help/mcve,,stackoverflow.com,557,Blog Post,Opinion/Specialty
+301.0,https://stackoverflow.com/posts/54113147/revisions,,stackoverflow.com,1,Blog Post,Other
+315.0,https://stackoverflow.com/review/helper,,stackoverflow.com,18,Blog Post,Opinion/Specialty
+329.0,https://stackexchange.com/legal,,stackexchange.com,39,Blog Post,Opinion/Specialty
+336.0,https://stackoverflow.com/review/helper/17093153,,stackoverflow.com,1,Blog Post,Opinion/Specialty
+343.0,https://www.geeksforgeeks.org/data-mining-process,www,geeksforgeeks.org,1,Blog Post,Tutorial
+347.0,http://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html,blog,reverberate.org,1,Blog Post,Tutorial
+351.0,https://stackoverflow.com/help/tagging,,stackoverflow.com,59,Blog Post,Opinion/Specialty
+390.0,https://meta.stackoverflow.com/editing-help#spoilers,meta,stackoverflow.com,1,Blog Post,Example
+392.0,https://stackoverflow.com/posts/26716300/timeline,,stackoverflow.com,1,Blog Post,Other
+396.0,https://stackoverflow.com/help/badges/12/strunk-white,,stackoverflow.com,11,Blog Post,Opinion/Specialty
+399.0,https://stackoverflow.com/help/product-support,,stackoverflow.com,31,Blog Post,Opinion/Specialty
+425.0,https://stackoverflow.com/posts/1109022/revisions,,stackoverflow.com,1,Blog Post,Other
+18.0,https://blog.stackoverflow.com/2015/01/why-we-still-believe-in-private-offices/,blog,stackoverflow.com,2,Blog Post,Opinion/Specialty
+187.0,https://blog.stackoverflow.com/2011/05/community-promotion-ads/,blog,stackoverflow.com,2,Blog Post,Opinion/Specialty
+206.0,http://www.hanselman.com/blog/WorkingWithSSLAtDevelopmentTimeIsEasierWithIISExpress.aspx,www,hanselman.com,2,Blog Post,Tutorial
+298.0,https://stackoverflow.blog/?blb=1,,stackoverflow.blog,1,Blog Post,Other
+346.0,https://blog.stackoverflow.com/2009/01/reputation-bounty-for-unanswered-questions/,blog,stackoverflow.com,1,Blog Post,Opinion/Specialty
+414.0,https://stackoverflow.blog/stackoverflowknows/,,stackoverflow.blog,1,Blog Post,Other
+661.0,https://stackoverflow.blog/2020/10/30/the-overflow-45-what-we-call-ci-cd-is-actually-only-ci/,,stackoverflow.blog,1,Blog Post,Reference
+820.0,https://stackoverflow.blog/2010/01/04/stack-overflow-where-we-hate-fun/,,stackoverflow.blog,8,Blog Post,Opinion/Specialty
+1028.0,https://stackoverflow.blog/2018/12/04/welcome-wagon-community-and-comments-on-stack-overflow/,,stackoverflow.blog,2,Blog Post,
+1047.0,https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/,,github.blog,1,Blog Post,
+1179.0,https://stackoverflow.blog/2010/08/07/the-death-of-meta-tags/,,stackoverflow.blog,41,Blog Post,
+1245.0,https://stackoverflow.blog/2018/03/13/2018-developer-survey-results-live/?cb=1,,stackoverflow.blog,2,Blog Post,
+1285.0,https://stackoverflow.blog/2018/03/13/2018-developer-survey-results-live/,,stackoverflow.blog,4,Blog Post,
+1293.0,https://blog.stackoverflow.com/2015/01/targeted-jobs-for-stack-overflow/,blog,stackoverflow.com,4,Blog Post,
+1299.0,http://blogs.msdn.com/b/oldnewthing/,blogs,msdn.com,2,Blog Post,
+1471.0,https://blog.stackexchange.com/2014/04/changes-and-guidelines-for-the-protected-question-status/,blog,stackexchange.com,2,Blog Post,
+38.0,https://i.stack.imgur.com/dvVKY.png,i.stack,imgur.com,1,Images,Reference
+42.0,https://i.stack.imgur.com/gouVy.png,i.stack,imgur.com,1,Images,Reference
+43.0,https://i.stack.imgur.com/gHXRX.png,i.stack,imgur.com,1,Images,Reference
+46.0,https://i.stack.imgur.com/lJ310.png,i.stack,imgur.com,1,Images,Reference
+52.0,https://i.stack.imgur.com/jmet8.png,i.stack,imgur.com,1,Images,Reference
+55.0,https://i.stack.imgur.com/xSVSz.png,i.stack,imgur.com,1,Images,Reference
+80.0,https://i.stack.imgur.com/8Zuc4.jpg,i.stack,imgur.com,1,Images,Reference
+90.0,https://i.stack.imgur.com/02lsq.png,i.stack,imgur.com,1,Images,Reference
+93.0,https://i.stack.imgur.com/qBHO3.png,i.stack,imgur.com,1,Images,Reference
+118.0,https://i.stack.imgur.com/OrZze.png,i.stack,imgur.com,1,Images,Reference
+120.0,https://i.stack.imgur.com/iJ0IA.jpg,i.stack,imgur.com,1,Images,Reference
+121.0,https://i.stack.imgur.com/BLOFF.png,i.stack,imgur.com,1,Images,Reference
+126.0,https://i.stack.imgur.com/1AhIe.png,i.stack,imgur.com,1,Images,Reference
+144.0,https://i.stack.imgur.com/9Cz9B.png,i.stack,imgur.com,1,Images,Reference
+154.0,https://i.stack.imgur.com/mf1jM.jpg,i.stack,imgur.com,1,Images,Reference
+160.0,https://i.stack.imgur.com/fBoyQ.png,i.stack,imgur.com,1,Images,Reference
+163.0,https://i.stack.imgur.com/2Op3p.png,i.stack,imgur.com,1,Images,Reference
+170.0,https://i.stack.imgur.com/ORrIT.png,i.stack,imgur.com,1,Images,Reference
+173.0,https://i.stack.imgur.com/CAE3B.png,i.stack,imgur.com,1,Images,Reference
+198.0,https://i.stack.imgur.com/a4UQI.png,i.stack,imgur.com,1,Images,Reference
+200.0,https://i.stack.imgur.com/SQ9NI.png,i.stack,imgur.com,1,Images,Reference
+228.0,https://i.stack.imgur.com/ZacTs.png,i.stack,imgur.com,1,Images,Reference
+236.0,https://i.stack.imgur.com/Yixgc.png,i.stack,imgur.com,1,Images,Reference
+239.0,https://i.stack.imgur.com/kVWBk.png,i.stack,imgur.com,1,Images,Reference
+250.0,https://i.stack.imgur.com/wRnJ4.png,i.stack,imgur.com,1,Images,Reference
+251.0,https://i.stack.imgur.com/hmIwr.png,i.stack,imgur.com,1,Images,Reference
+288.0,https://i.stack.imgur.com/7AxEW.png,i.stack,imgur.com,1,Images,Reference
+292.0,https://i.stack.imgur.com/CXROC.png,i.stack,imgur.com,1,Images,Reference
+305.0,https://i.stack.imgur.com/RqOTP.png,i.stack,imgur.com,1,Images,Reference
+309.0,https://i.stack.imgur.com/35ByA.png,i.stack,imgur.com,1,Images,Reference
+312.0,https://i.stack.imgur.com/HOAz6.png,i.stack,imgur.com,1,Images,Reference
+322.0,https://i.stack.imgur.com/SKDf3.png,i.stack,imgur.com,1,Images,Reference
+334.0,https://i.stack.imgur.com/EvPkE.png,i.stack,imgur.com,1,Images,Reference
+353.0,https://i.stack.imgur.com/aW9LCl.png,i.stack,imgur.com,1,Images,Reference
+354.0,https://i.stack.imgur.com/aVPvh.png,i.stack,imgur.com,1,Images,Reference
+366.0,https://i.stack.imgur.com/tcOOc.png,i.stack,imgur.com,2,Images,Reference
+381.0,https://i.stack.imgur.com/tW2G1.png,i.stack,imgur.com,1,Images,Reference
+406.0,https://i.stack.imgur.com/NB69t.gif,i.stack,imgur.com,1,Images,Reference
+421.0,https://i.stack.imgur.com/P1iY7.png,i.stack,imgur.com,1,Images,Reference
+952.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/stackoverflow/plots-linear/activity-1234256-Mooseman.csv.png,raw,githubusercontent.com,1,Images,
+1643.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/metastackexchange/plots-linear/activity-572-Thomas%20Owens.csv.png,raw,githubusercontent.com,1,Images,
+1723.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/combined/plots-linear/activity-72299-Gordon.csv.png,raw,githubusercontent.com,1,Images,
+2061.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/combined/plots-linear/activity-259554-Michael%20Irigoyen.csv.png,raw,githubusercontent.com,1,Images,
+2961.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/combined/plots-daily/activity-199576-Matt.csv-bubble-nosmoothing.png,raw,githubusercontent.com,1,Images,
+3317.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/stackoverflow/plots-linear/activity-208809-Gordon.csv.png,raw,githubusercontent.com,1,Images,
+3465.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/combined/plots-daily/activity-35417-Martijn%20Pieters.csv-bubble-nosmoothing.png,raw,githubusercontent.com,1,Images,
+4122.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/combined/plots-daily/activity-1274421-Hemang.csv-bubble-nosmoothing.png,raw,githubusercontent.com,1,Images,
+4319.0,https://i.stack.imgur.com/Sy7M8.png,i.stack,imgur.com,1,Images,Reference
+4317.0,https://i.stack.imgur.com/Jl1ri.png,i.stack,imgur.com,1,Images,Reference
+4275.0,https://i.stack.imgur.com/l0x4d.png,i.stack,imgur.com,1,Images,Reference
+12.0,https://docs.microsoft.com/en-us/ef/core/modeling/keyless-entity-types,docs,microsoft.com,1,Official Documentation,Reference
+85.0,https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html,developer,apple.com,1,Official Documentation,Reference
+94.0,https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy,developer,mozilla.org,1,Official Documentation,Reference
+161.0,https://www.google.com/webmasters/tools/spamreport,www,google.com,1,Official Documentation,Reference
+232.0,https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2011__hd/session_123__improving_the_stability_of_your_apps.m4v,developer,apple.com,1,Official Documentation,Reference
+400.0,https://developer.m-files.com/APIs/COM-API/,developer,m-files.com,1,Official Documentation,API
+2170.0,https://docs.microsoft.com/en-us/archive/blogs/mvpawardprogram/new-code-review-feature-in-visual-studio-2012,docs,microsoft.com,1,Official Documentation,
+898.0,https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-custom-resources-lambda.html,docs.aws,amazon.com,1,Official Documentation,
+2009.0,http://clang.llvm.org/docs/UsersManual.html#cxx,clang,llvm.org,1,Official Documentation,
+,https://cloud.google.com/appengine/docs/standard/python/issue-requests,cloud,google.com,1,Official Documentation,
+,https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html,pandas,pydata.org,1,Official Documentation,
+,https://docs.python.org/3.10/whatsnew/3.10.html,docs,python.org,1,Official Documentation,
+,https://developer.mozilla.org/en-US/docs/Web/API/Blob,developer,mozilla.org,1,Official Documentation,
+,https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img,developer,mozilla.org,2,Official Documentation,
+,https://data.stackexchange.com/stackoverflow/query/1266713/positively-received-questions-with-tag-that-do-not-contain-text?tag=google-apps-script&text=documentation&includeText=yes&includeTag=yes,data,stackexchange.com,1,Official Documentation,
+344.0,http://incubator.apache.org/projects/wave.html,incubator,apache.org,1,Official Documentation,
+,https://highlightjs.readthedocs.io/en/latest/language-guide.html#relevance,highlightjs,readthedocs.io,1,Official Documentation,
+,http://doc.4d.com/4Dv15R3/4D/15-R3/Method-editor.300-2761336.en.html,doc,4d.com,1,Official Documentation,
+,https://developers.google.com/protocol-buffers/docs/reference/java/com/google/protobuf/TextFormat,developers,google.com,1,Official Documentation,
+,http://api.stackexchange.com/docs/authentication,api,stackexchange.com,2,Official Documentation,
+,https://docs.google.com/document/d/1bDqaM0uc2quIu5K_InkfWbukP_-n90GG67TWt6WAM5Q/edit?usp=sharing,docs,google.com,1,Official Documentation,
+,http://nginx.org/en/docs/http/ngx_http_grpc_module.html#grpc_pass,,nginx.org,1,Official Documentation,
+,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Object_literals,developer,mozilla.org,1,Official Documentation,
+,https://developer.apple.com/documentation/uikit/uiview/1622591-backgroundcolor,developer,apple.com,1,Official Documentation,
+,https://api.stackexchange.com/docs/collectives#order=desc&sort=name&filter=default&site=stackoverflow&run=true,api,stackexchange.com,1,Official Documentation,
+,https://mcforge.readthedocs.io/en/latest/datastorage/capabilities/,mcforge,readthedocs.io,1,Official Documentation,
+,http://api.stackexchange.com/docs/excerpt-search#order=desc&sort=activity&url=*DlgkW.png*&filter=default&site=stackoverflow&run=true,api,stackexchange.com,1,Official Documentation,
+,https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filtro,developer,mozilla.org,1,Official Documentation,
+,http://pandas.pydata.org/pandas-docs/stable/dsintro.html#series,pandas,pydata.org,1,Official Documentation,
+,https://laravel.com/docs/5.6/validation#after-validation-hook,,laravel.com,1,Official Documentation,
+,https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a,developer,mozilla.org,1,Official Documentation,
+,http://www.asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/database_storing-cdr.html,www,asteriskdocs.org,1,Official Documentation,
+,https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_clipboard.html,pandas,pydata.org,1,Official Documentation,
+,http://docs.oracle.com/javase/tutorial/essential/regex/quant.html,docs,oracle.com,1,Official Documentation,
+,https://developers.facebook.com/docs/unity/downloads,developers,facebook.com,1,Official Documentation,
+,http://perldoc.perl.org/index-faq.html,perldoc,perl.org,1,Official Documentation,
+,http://httpd.apache.org/docs/current/howto/htaccess.html#when,httpd,apache.org,1,Official Documentation,
+,http://docs.oracle.com/javase/8/docs/api/java/util/concurrent/BlockingQueue.html,docs,oracle.com,1,Official Documentation,
+,https://docs.microsoft.com/en-us/archive/blogs/jerrynixon/at-last-c-is-getting-sometimes-called-the-safe-navigation-operator,docs,microsoft.com,1,Official Documentation,
+,https://angular.io/docs/js/latest/quickstart.html,,angular.io,1,Official Documentation,
+,https://docs.angularjs.org/api/ng/service/$q,docs,angularjs.org,3,Official Documentation,
+,http://docs.oracle.com/javase/8/docs/technotes/guides/security/enhancements-8.html,docs,oracle.com,1,Official Documentation,
+,https://docs.angularjs.org/guide/scope,docs,angularjs.org,1,Official Documentation,
+,https://cordova.apache.org/docs/en/edge/cordova_events_events.md.html#deviceready,cordova,apache.org,1,Official Documentation,
+,https://docs.microsoft.com/en-us/archive/blogs/ericlippert/how-to-not-get-a-question-answered,docs,microsoft.com,1,Official Documentation,
+,https://dev.mysql.com/doc/refman/5.5/en/time-zone-support.html,dev,mysql.com,1,Official Documentation,
+,https://docs.angularjs.org/guide/component,docs,angularjs.org,1,Official Documentation,
+,http://spark.apache.org/docs/latest/sql-programming-guide.html#dataframes,spark,apache.org,2,Official Documentation,
+,https://developers.facebook.com/docs/facebook-login,developers,facebook.com,1,Official Documentation,
+,https://docs.oracle.com/javase/8/docs/api/java/lang/NullPointerException.html,docs,oracle.com,1,Official Documentation,
+9.0,https://github.com/offirgolan/ember-cp-validations/,,github.com,1,Product/Project Website,Library
+22.0,https://unikong.github.io/,unikong,github.io,3,Product/Project Website,Other
+74.0,https://github.com/CertainPerformance/Stack-Exchange-Userscripts/tree/master/Style-Code-After-Edit-Refresh,,github.com,1,Product/Project Website,Reference
+105.0,https://stackoverflow.az1.qualtrics.com/jfe/form/SV_bedBQlMexcTr5WJ?utm_source=so-owned&utm_medium=meta&utm_campaign=dev-survey-2018-collection&award=a44ddbce912140a4b13ebc0bdcfd7a64&site=stackoverflow.com,stackoverflow.az1,qualtrics.com,1,Product/Project Website,Other
+159.0,https://tio.run,,tio.run,2,Product/Project Website,API
+167.0,https://console.bluemix.net/catalog/services/app-id,console,bluemix.net,1,Product/Project Website,Tool
+181.0,https://pypi.org/project/filelock/,,pypi.org,1,Product/Project Website,Library
+189.0,http://www.fiverr.com/mygigdeals/give-you-5-up-votes-to-your-legitimate-question-or-answer-on-any-stack-exchange-site,www,fiverr.com,1,Product/Project Website,Tool
+190.0,http://stackoverflow360.com.ipaddress.com/,stackoverflow360.com,ipaddress.com,1,Product/Project Website,Tool
+199.0,https://open.spotify.com/show/0e5eoM6w7eW9Wu7wMA04Tr?si=6k4M_iTyT2yA2IV-mPloXA,open,spotify.com,1,Product/Project Website,Other
+211.0,https://raw.githubusercontent.com/JC3/SO2015ActivityProfiles/master/data/stackoverflow/plots-linear/activity-3622940-Unihedro.csv.png,raw,githubusercontent.com,1,Product/Project Website,Reference
+274.0,https://github.com/google/code-prettify/blob/master/README.md#for-which-languages-does-it-work,,github.com,2,Product/Project Website,Library
+293.0,https://github.com/samliew/SO-mod-userscripts/raw/master/ChatTranscriptHelper.user.js,,github.com,1,Product/Project Website,Library
+308.0,https://github.com/rchern/StackExchangeScripts/,,github.com,1,Product/Project Website,Library
+341.0,https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1RGiufc1FCJcL6B,stackoverflow.az1,qualtrics.com,2,Product/Project Website,Other
+350.0,http://www.codeproject.com,www,codeproject.com,1,Product/Project Website,Library
+361.0,http://jsfiddle.net/,,jsfiddle.net,17,Product/Project Website,Tool
+370.0,https://www.lua.org/pil/11.1.html,www,lua.org,1,Product/Project Website,Book
+417.0,http://isocpp.org/files/papers/N3797.pdf,,isocpp.org,1,Product/Project Website,Book
+819.0,https://superuser.com/,,superuser.com,63,Product/Project Website,
+1288.0,https://userstyles.org,,userstyles.org,1,Product/Project Website,
+340.0,https://github.com/bokeh/bokeh,,github.com,1,Product/Project Website,
+393.0,https://github.com/nimndata/spec,,github.com,1,Product/Project Website,
+410.0,https://github.com/google/re2,,github.com,1,Product/Project Website,
+478.0,https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers,,github.com,1,Product/Project Website,
+511.0,http://github.com/ghewgill/soirc,,github.com,1,Product/Project Website,
+697.0,https://github.com/Charcoal-SE/SmokeDetector,,github.com,6,Product/Project Website,
+782.0,http://site.icu-project.org/related,site,icu-project.org,1,Product/Project Website,
+1129.0,https://github.com/nerdome/LocationSwitcher/blob/master/src/de/adornis/de/locationswitcher/GeofenceReceiver.java,,github.com,2,Product/Project Website,
+1383.0,https://github.com/gorbin/ASNE,,github.com,1,Product/Project Website,
+3442.0,https://github.com/Tiny-Giant/myuserscripts/blob/master/SODark.user.js,,github.com,1,Product/Project Website,
+4373.0,https://github.com/ArcBees/GWTP,,github.com,2,Product/Project Website,
+2.0,https://github.com/nomiddlename/log4js-node,,github.com,1,Product/Project Website,
+340.0,https://github.com/bokeh/bokeh,,github.com,1,Product/Project Website,
+697.0,https://github.com/Charcoal-SE/SmokeDetector,,github.com,6,Product/Project Website,
+923.0,https://github.com/Autodesk/quack,,github.com,2,Product/Project Website,
+1541.0,https://github.com/7cart/7cart,,github.com,1,Product/Project Website,
+1567.0,https://github.com/simonmar/parconc-examples/blob/master/rsa-pipeline.hs,,github.com,1,Product/Project Website,
+1911.0,https://github.com/languagetool-org/languagetool,,github.com,1,Product/Project Website,
+1984.0,https://github.com/yihui/knitr#knitr,,github.com,1,Product/Project Website,
+2028.0,https://gist.github.com/castorflex/bb75dfce9aa7ba2b02863bee9f1e5fba,gist,github.com,1,Product/Project Website,
+2082.0,https://github.com/Nedomas/zapata,,github.com,1,Product/Project Website,
+2242.0,https://gist.github.com/kms70847/b600792c78b0790c3c4d,gist,github.com,1,Product/Project Website,
+2306.0,https://github.com/sopython/sopython-site,,github.com,2,Product/Project Website,
+2369.0,https://github.com/n64decomp/sm64,,github.com,1,Product/Project Website,
+2813.0,https://gist.github.com/Zirak/6341918,gist,github.com,1,Product/Project Website,
+2845.0,https://github.com/jenkinsci/workflow-plugin/,,github.com,1,Product/Project Website,
+2877.0,https://github.com/graphite-project/carbon,,github.com,2,Product/Project Website,
+3647.0,https://github.com/istarkov/google-map-react,,github.com,1,Product/Project Website,
+4068.0,https://github.com/filips123/ConfigWriter/,,github.com,1,Product/Project Website,
+1.0,https://meta.stackoverflow.com/questions/262806/is-it-ok-for-users-to-edit-the-accepted-answer-into-their-question,meta,stackoverflow.com,2,Q&A Post,Answer
+11.0,https://stackoverflow.com/questions/1917576/how-to-pass-javascript-variables-to-php,,stackoverflow.com,1,Q&A Post,Answer
+13.0,https://stackoverflow.com/questions/33047452/definitive-list-of-common-reasons-for-segmentation-faults,,stackoverflow.com,3,Q&A Post,Answer
+21.0,https://stackoverflow.com/questions/596780/how-do-i-simulate-a-slow-internet-connection-edge-3g-on-a-mac-is-there-a-fire,,stackoverflow.com,1,Q&A Post,Answer
+25.0,https://meta.stackexchange.com/questions/130524/which-stackexchange-website-for-machine-learning-and-computational-algorithms/254090#254090,meta,stackexchange.com,1,Q&A Post,Answer
+28.0,https://meta.stackoverflow.com/questions/370095/merging-the-excel-vba-into-vba-speak-now-or-forever-hold-your-peace?cb=1,meta,stackoverflow.com,1,Q&A Post,Answer
+32.0,https://meta.stackoverflow.com/a/340865/792066,meta,stackoverflow.com,2,Q&A Post,Answer
+33.0,https://meta.stackoverflow.com/questions/325979/rep-for-edits-maxes-out-at-1000pts-but-what-about-deleted-posts#comment356239_325979,meta,stackoverflow.com,1,Q&A Post,Answer
+37.0,https://meta.stackoverflow.com/questions/251767/dealing-with-answers-which-just-link-to-possible-duplicate-and-copy-a-snippet,meta,stackoverflow.com,1,Q&A Post,Answer
+39.0,https://meta.stackexchange.com/questions/17204/six-simple-tips-to-get-stack-overflow-reputation-fast,meta,stackexchange.com,4,Q&A Post,Answer
+45.0,https://stackoverflow.com/questions/58290809/processing-lists-of-list-in-python,,stackoverflow.com,1,Q&A Post,Answer
+47.0,https://stackoverflow.com/questions/14490957/what-is-alternative-to-use-after-jquery-1-9-removed-togglefunction-function,,stackoverflow.com,1,Q&A Post,Answer
+50.0,https://stackoverflow.com/questions/24270078/refresh-control-with-search-display-controller-appears-overtop-the-search-bar,,stackoverflow.com,1,Q&A Post,Answer
+53.0,https://stackoverflow.com/questions/50001309/why-operator-is-not-calling-neq,,stackoverflow.com,1,Q&A Post,Answer
+60.0,https://meta.stackoverflow.com/a/322427/,meta,stackoverflow.com,1,Q&A Post,Answer
+61.0,https://stackoverflow.com/questions/41418766/is-it-legal-to-pass-a-non-null-terminated-string-to-strncmp-in-c,,stackoverflow.com,1,Q&A Post,Answer
+62.0,https://meta.stackoverflow.com/questions/266161/why-do-comment-flags-sometimes-take-immediate-effect,meta,stackoverflow.com,2,Q&A Post,Answer
+65.0,https://stackoverflow.com/help/closed-questions,,stackoverflow.com,99,Q&A Post,Answer
+66.0,https://meta.stackoverflow.com/questions/377637/should-we-burninate-the-pyth-tag,meta,stackoverflow.com,1,Q&A Post,Answer
+71.0,https://meta.stackoverflow.com/questions/333698/does-earning-large-amounts-of-reputation-directly-affect-a-question-ban/348029#comment466294_348029,meta,stackoverflow.com,1,Q&A Post,Answer
+0.0,https://stackoverflow.com/questions/tagged/dictionary,,stackoverflow.com,36,Q&A Post,Question
+3.0,https://stackoverflow.com/questions/tagged/browser-addons,,stackoverflow.com,1,Q&A Post,Question
+6.0,https://stackoverflow.com/questions/tagged/poco,,stackoverflow.com,4,Q&A Post,Question
+10.0,https://stackoverflow.com/questions/tagged/google-api-java-client,,stackoverflow.com,4,Q&A Post,Question
+14.0,https://stackoverflow.com/questions/tagged/htaccess,,stackoverflow.com,1,Q&A Post,Question
+15.0,https://stackoverflow.com/questions/tagged/c,,stackoverflow.com,304,Q&A Post,Question
+18.0,https://meta.stackexchange.com/a/327313,meta,stackexchange.com,1,Q&A Post,Question
+26.0,https://stackoverflow.com/questions/tagged/android,,stackoverflow.com,223,Q&A Post,Question
+31.0,https://stackoverflow.com/questions/tagged/proofs,,stackoverflow.com,2,Q&A Post,Question
+40.0,https://meta.stackoverflow.com/q/318288/354577,meta,stackoverflow.com,1,Q&A Post,Question
+48.0,https://stackoverflow.com/questions/tagged/spark-framework,,stackoverflow.com,11,Q&A Post,Question
+49.0,https://stackoverflow.com/questions/tagged/swift4+-swift,,stackoverflow.com,1,Q&A Post,Question
+54.0,https://stackoverflow.com/questions/tagged/jest,,stackoverflow.com,41,Q&A Post,Question
+56.0,https://stackoverflow.com/q/23121572/3157076,,stackoverflow.com,1,Q&A Post,Question
+59.0,https://stackoverflow.com/questions/tagged/mirth,,stackoverflow.com,3,Q&A Post,Question
+63.0,https://stackoverflow.com/questions/tagged/kafka,,stackoverflow.com,3,Q&A Post,Question
+64.0,https://stackoverflow.com/questions/tagged/grep,,stackoverflow.com,5,Q&A Post,Question
+69.0,https://meta.stackexchange.com/questions/tagged/stack-overflow-for-teams,meta,stackexchange.com,1,Q&A Post,Question
+70.0,https://stackoverflow.com/questions/tagged/selenium-webdriver,,stackoverflow.com,15,Q&A Post,Question
+72.0,https://stackoverflow.com/questions/tagged/r,,stackoverflow.com,134,Q&A Post,Question
+78.0,https://stackoverflow.com/review/close/13700007,,stackoverflow.com,1,Q&A Post,Opinion/Specialty
+110.0,https://stackoverflow.com/review/suggested-edits/12940137,,stackoverflow.com,1,Q&A Post,Opinion/Specialty
+136.0,https://stackoverflow.com/review/low-quality-posts/14283364,,stackoverflow.com,1,Q&A Post,Opinion/Specialty
+157.0,https://stackoverflow.com/review/suggested-edits/6049279,,stackoverflow.com,1,Q&A Post,Opinion/Specialty
+209.0,https://stackoverflow.com/review/suggested-edits/5421767,,stackoverflow.com,1,Q&A Post,Opinion/Specialty
+117.0,https://chat.stackoverflow.com/rooms/41570,chat,stackoverflow.com,28,Q&A Post,Other
+169.0,https://stackoverflow.com/documentation/review/changes/71178,,stackoverflow.com,3,Q&A Post,Other
+215.0,https://chat.stackoverflow.com/rooms/46067/tcl,chat,stackoverflow.com,1,Q&A Post,Other
+216.0,https://stackoverflow.com/documentation/proposed/changes/46642,,stackoverflow.com,1,Q&A Post,Other
+86.0,https://meta.stackoverflow.com/users/366904/cody-gray,meta,stackoverflow.com,25,User Profile,Other
+155.0,https://meta.stackexchange.com/users/168933/dave-newton,meta,stackexchange.com,1,User Profile,Other
+207.0,https://stackoverflow.com/users/1212596/paul-draper?tab=tags&sort=name&page=5,,stackoverflow.com,1,User Profile,Other
+297.0,https://stackoverflow.com/users/1779486/gunmetalblue,,stackoverflow.com,1,User Profile,Other
+357.0,https://stackoverflow.com/tags/prolog/topusers,,stackoverflow.com,1,User Profile,Other
+35.0,https://meta.stackoverflow.com/users/4718716/hopper,meta,stackoverflow.com,1,User Profile,
+104.0,https://pt.stackoverflow.com/users/101/bigown,pt,stackoverflow.com,2,User Profile,
+106.0,https://meta.stackoverflow.com/users/157247/t-j-crowder,meta,stackoverflow.com,3,User Profile,
+156.0,https://meta.stackoverflow.com/users/2466193/ali-beadle,meta,stackoverflow.com,1,User Profile,
+184.0,https://stackoverflow.com/users/1788/matt-brewer,,stackoverflow.com,1,User Profile,
+196.0,https://stackoverflow.com/users/2246344/sam?tab=reputation&sort=time,,stackoverflow.com,1,User Profile,
+221.0,https://meta.stackoverflow.com/users/1033581,meta,stackoverflow.com,1,User Profile,
+227.0,https://stackoverflow.com/users/10443057/,,stackoverflow.com,1,User Profile,
+288.0,https://stackoverflow.com/users/4519059/sha-t,,stackoverflow.com,1,User Profile,
+341.0,https://stackoverflow.com/users/4099598/nathan-tuggy#,,stackoverflow.com,1,User Profile,
+378.0,https://meta.stackoverflow.com/users/email/settings/2986984,meta,stackoverflow.com,1,User Profile,
+448.0,https://stackoverflow.com/users/34824/abelenky?tab=reputation,,stackoverflow.com,1,User Profile,
+464.0,https://stackoverflow.com/users/7948068/kathryn?tab=answers&sort=votes,,stackoverflow.com,1,User Profile,
+491.0,https://stackoverflow.com/users/1969866/narayan?tab=activity,,stackoverflow.com,1,User Profile,
+575.0,https://stackexchange.com/users/16353407/jizhihaosama?tab=accounts,,stackexchange.com,1,User Profile,
+617.0,https://meta.stackoverflow.com/users/635608/mat,meta,stackoverflow.com,5,User Profile,
+658.0,https://stackoverflow.com/users/100297/martijn-pieters,,stackoverflow.com,16,User Profile,
+722.0,https://meta.stackoverflow.com/users/80572/kevin-montrose,meta,stackoverflow.com,2,User Profile,
+818.0,https://stackoverflow.com/users/1011527/jay-blanchard?tab=reputation&sort=time,,stackoverflow.com,1,User Profile,
+895.0,https://stackoverflow.com/users/5254505/gerrit-van-weele,,stackoverflow.com,1,User Profile,
+913.0,https://meta.stackexchange.com/users/222882/tom-limoncelli,meta,stackexchange.com,1,User Profile,
+1116.0,https://stackoverflow.com/users/29407/darin-dimitrov,,stackoverflow.com,4,User Profile,
+1127.0,https://stackoverflow.com/users/1252759/jon-clements,,stackoverflow.com,6,User Profile,
+1145.0,https://stackoverflow.com/users/10151315/eli,,stackoverflow.com,1,User Profile,
+1187.0,https://stackoverflow.com/users/4759597/veriloud,,stackoverflow.com,1,User Profile,
+1307.0,https://stackoverflow.com/users/story/lists/312179/various-companies?storyType=1,,stackoverflow.com,1,User Profile,Other
+1466.0,https://stackoverflow.com/users/2173917/sourav-ghosh,,stackoverflow.com,2,User Profile,
+1472.0,https://meta.stackoverflow.com/users/121332?tab=badges&sort=recent,meta,stackoverflow.com,1,User Profile,
+1498.0,https://stackoverflow.com/users/106224/boltclock?tab=tags&sort=name&page=24,,stackoverflow.com,1,User Profile,
+1516.0,https://stackoverflow.com/users/109702/slugster,,stackoverflow.com,3,User Profile,
+1570.0,https://stackoverflow.com/users/6575698/hhhaaa1,,stackoverflow.com,1,User Profile,
+1592.0,https://academia.stackexchange.com/users/26708/,academia,stackexchange.com,1,User Profile,
+1863.0,https://stackoverflow.com/users/-1,,stackoverflow.com,7,User Profile,
+1941.0,https://meta.stackexchange.com/users/285661/ghostcat,meta,stackexchange.com,1,User Profile,
+1942.0,https://stackoverflow.com/users/312771/alex-skorkin?tab=activity&sort=revisions,,stackoverflow.com,1,User Profile,
+2004.0,https://meta.stackoverflow.com/users/4143855/tas,meta,stackoverflow.com,1,User Profile,
+2016.0,https://stackoverflow.com/users/6229006/dark-knight?tab=reputation,,stackoverflow.com,1,User Profile,
+2019.0,https://meta.stackoverflow.com/users/12695027/scratte,meta,stackoverflow.com,7,User Profile,
+2052.0,https://stackoverflow.com/users/189516/tim-lloyd,,stackoverflow.com,1,User Profile,
+2055.0,https://stackoverflow.com/users/17034/hans-passant,,stackoverflow.com,7,User Profile,
+2088.0,https://stackoverflow.com/users/3582443/user3582443,,stackoverflow.com,1,User Profile,
+2182.0,https://meta.stackexchange.com/users/162102/monica-cellio,meta,stackexchange.com,18,User Profile,
+2328.0,https://meta.stackoverflow.com/users/103167/ben-voigt,meta,stackoverflow.com,3,User Profile,
+2384.0,https://stackoverflow.com/users/2824801/dal%c4%b1m-%c3%87epi%c3%a7?tab=reputation,,stackoverflow.com,1,User Profile,
+2418.0,https://stackoverflow.com/users/2808510/tim?tab=activity&sort=revisions,,stackoverflow.com,1,User Profile,
+4.0,https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act,en,wikipedia.org,5,Wiki,Reference
+16.0,http://en.wikipedia.org/wiki/Database_schema,en,wikipedia.org,1,Wiki,Reference
+35.0,https://en.wikipedia.org/wiki/Component_Object_Model,en,wikipedia.org,1,Wiki,Design/Architecture
+67.0,https://en.wikipedia.org/wiki/Repository_(version_control),en,wikipedia.org,1,Wiki,Reference
+97.0,http://en.wikipedia.org/wiki/JQuery_UI,en,wikipedia.org,3,Wiki,Reference
+131.0,https://en.wikipedia.org/wiki/Law_of_triviality,en,wikipedia.org,9,Wiki,Reference
+177.0,https://en.wikipedia.org/wiki/Referer_spam,en,wikipedia.org,1,Wiki,Reference
+186.0,https://en.wikipedia.org/wiki/ROT13,en,wikipedia.org,1,Wiki,Design/Architecture
+240.0,https://en.wikipedia.org/wiki/RDoc,en,wikipedia.org,1,Wiki,Reference
+376.0,https://en.wikipedia.org/wiki/ABC_(programming_language),en,wikipedia.org,1,Wiki,Reference
+393.0,https://en.wikipedia.org/wiki/Rust_%28programming_language%29,en,wikipedia.org,2,Wiki,Other
+428.0,http://en.wikipedia.org/wiki/Women_in_computing#The_gender_gap,en,wikipedia.org,1,Wiki,Reference
+26.0,https://www.khronos.org/opengl/wiki/Shader_Compilation#Example,www,khronos.org,2,Wiki,
+38.0,http://en.wikipedia.org/wiki/Vim_%28text_editor%29,en,wikipedia.org,3,Wiki,
+109.0,https://en.wikipedia.org/w/index.php?title=Mutable_object&redirect=no,en,wikipedia.org,1,Wiki,
+159.0,https://en.wikipedia.org/wiki/Magma_(computer_algebra_system),en,wikipedia.org,1,Wiki,
+181.0,https://en.wikipedia.org/wiki/Sockpuppet_(Internet),en,wikipedia.org,10,Wiki,
+208.0,https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good,en,wikipedia.org,3,Wiki,
+438.0,https://en.wikipedia.org/wiki/Base64,en,wikipedia.org,2,Wiki,
+444.0,http://tardis.wikia.com/wiki/Dwarf_star_alloy,tardis,wikia.com,1,Wiki,
+457.0,https://en.wikipedia.org/wiki/Social_proof,en,wikipedia.org,1,Wiki,
+458.0,https://en.wikipedia.org/wiki/Non-disclosure_agreement,en,wikipedia.org,3,Wiki,
+478.0,https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers,,github.com,1,Wiki,
+538.0,https://en.wikipedia.org/wiki/Function_composition,en,wikipedia.org,1,Wiki,
+615.0,http://en.wikipedia.org/wiki/Data-centric_programming_language,en,wikipedia.org,1,Wiki,
+627.0,http://en.wikipedia.org/wiki/Entity,en,wikipedia.org,1,Wiki,
+673.0,http://en.wiktionary.org/wiki/two_cents#Noun,en,wiktionary.org,1,Wiki,
+674.0,https://en.wikipedia.org/wiki/Corporate_governance,en,wikipedia.org,1,Wiki,
+888.0,https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder,en,wikipedia.org,1,Wiki,
+891.0,http://tvtropes.org/pmwiki/pmwiki.php/Main/TakeAThirdOption,,tvtropes.org,1,Wiki,
+957.0,https://en.wikipedia.org/wiki/Privacy_Badger,en,wikipedia.org,1,Wiki,
+1003.0,https://en.wikipedia.org/wiki/Deadpan,en,wikipedia.org,1,Wiki,
+1006.0,https://en.wikipedia.org/wiki/Ars_Technica,en,wikipedia.org,1,Wiki,
+1049.0,http://en.wikipedia.org/wiki/Star_schema,en,wikipedia.org,1,Wiki,
+1072.0,https://en.wikipedia.org/wiki/Darknet,en,wikipedia.org,1,Wiki,
+1094.0,http://en.wikipedia.org/wiki/Catch-22_%28logic%29,en,wikipedia.org,2,Wiki,
+1122.0,https://en.wikipedia.org/wiki/Triple_DES,en,wikipedia.org,1,Wiki,
+1136.0,http://en.wikipedia.org/wiki/Entity-attribute-value_model,en,wikipedia.org,1,Wiki,
+1225.0,https://en.wiktionary.org/wiki/foxtrot_oscar,en,wiktionary.org,1,Wiki,
+1232.0,https://stackoverflow.com/help/privileges/community-wiki,,stackoverflow.com,12,Wiki,
+1382.0,https://en.wikipedia.org/wiki/MacBook_Pro,en,wikipedia.org,3,Wiki,
+1389.0,https://en.wikipedia.org/wiki/ROT13,en,wikipedia.org,1,Wiki,
+1520.0,https://en.wikipedia.org/wiki/Paint_%28software%29,en,wikipedia.org,1,Wiki,
+1548.0,https://en.wikipedia.org/wiki/UBlock_Origin,en,wikipedia.org,6,Wiki,
+1755.0,https://en.wikipedia.org/wiki/ESP_game,en,wikipedia.org,1,Wiki,
+1780.0,https://en.wikipedia.org/wiki/WordPress#WordPress_5.0_%22Bebo%22,en,wikipedia.org,1,Wiki,
+1833.0,http://en.wikipedia.org/wiki/Markdown,en,wikipedia.org,9,Wiki,
+1862.0,https://en.wikipedia.org/wiki/The_Pragmatic_Programmer,en,wikipedia.org,1,Wiki,
+1867.0,https://en.wikipedia.org/wiki/Nofollow,en,wikipedia.org,3,Wiki,
+1916.0,https://en.wikipedia.org/wiki/Dancing_Links,en,wikipedia.org,1,Wiki,
+2.0,https://chat.meta.stackexchange.com/transcript/message/6680191#6680191,chat.meta,stackexchange.com,1,Other,Answer
+68.0,https://twitter.com/MakotoTheKnight/status/1271974987897831425?s=20,,twitter.com,1,Other,Opinion/Specialty
+132.0,https://chat.stackexchange.com/search?q=site+is+required&room=11540,chat,stackexchange.com,1,Other,Answer
+289.0,https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96,gist,github.com,2,Other,Opinion/Specialty
+384.0,https://www.w3.org/WAI/tutorials/page-structure/headings/,www,w3.org,1,Other,Tutorial
+779.0,https://userstyles.org/styles/138640/stack-black-slim-header?autofb#discussions-area,,userstyles.org,2,Other,
+1044.0,https://chat.stackoverflow.com/search?q=sorry+can&user=&room=,chat,stackoverflow.com,1,Other,
+2545.0,https://stackoverflow.com/users/flair,,stackoverflow.com,4,Other,
+,http://www.sscce.org/,www,sscce.org,6,Other,
+102770.0,https://stackoverflow.atlassian.net/servicedesk/customer/portal/26,stackoverflow,atlassian.net,4,Other,
+33439.0,https://feeds.simplecast.com/XA_851k3,feeds,simplecast.com,3,Other,
+56701.0,https://yarnpkg.com/,,yarnpkg.com,3,Other,
+16732.0,http://websocketstest.com/,,websocketstest.com,3,Other,
+16966.0,http://www.url.com/to-get-the-number-of-items-in-an-arraylist-use-its-size-method.html,www,url.com,3,Other,
+3835.0,http://rick.measham.id.au/paste/explain.pl,rick,measham.id.au,3,Other,
+18369.0,http://lesscss.org/,,lesscss.org,3,Other,
+15581.0,http://www.dropzonejs.com/,www,dropzonejs.com,3,Other,
+9511.0,http://www.w3fools.com/,www,w3fools.com,3,Other,
+75977.0,https://www.modpagespeed.com/,www,modpagespeed.com,2,Other,
+49898.0,http://validateemailaddress.org/,,validateemailaddress.org,2,Other,
+112364.0,https://www.prosus.com/news/prosus-to-acquire-stack-overflow-for-us18-billion/,www,prosus.com,2,Other,
+91886.0,https://sparkar.com/ar-studio,,sparkar.com,2,Other,
+37270.0,https://www.maxcdn.com/,www,maxcdn.com,2,Other,
+37461.0,https://atom.io/,,atom.io,2,Other,
+80565.0,https://www.vim.org/,www,vim.org,2,Other,
+41823.0,http://www.osqa.net/,www,osqa.net,2,Other,
+40930.0,http://yawp.io,,yawp.io,2,Other,
+81088.0,http://ludix.com/moriarty/psalm46.html,,ludix.com,2,Other,
+64499.0,http://www.appsntech.com/2015/04/5-best-things-you-should-know-about-php.html,www,appsntech.com,2,Other,
+87944.0,https://www.justia.com/trials-litigation/evidentiary-standards-burdens-proof/,www,justia.com,2,Other,
+28996.0,http://deepstream.io/,,deepstream.io,2,Other,
+30705.0,https://www.dartlang.org/,www,dartlang.org,2,Other,
+79856.0,https://boingboing.net/2014/09/15/downvoting-considered-harmful.html,,boingboing.net,2,Other,
+79340.0,https://www.hubspot.com/facebook-marketing,www,hubspot.com,2,Other,
+87066.0,https://perl6.org,,perl6.org,2,Other,
+22988.0,http://www.openstv.org/,www,openstv.org,2,Other,
+7936.0,http://punchcardreader.com/striping.html,,punchcardreader.com,2,Other,
+71144.0,https://yourlogicalfallacyis.com/tu-quoque,,yourlogicalfallacyis.com,2,Other,
+68886.0,https://richardlangworth.com/worst-form-of-government,,richardlangworth.com,2,Other,
+17060.0,http://www.ucc.asn.au/~matt/mirror/irctelnet.html,www,ucc.asn.au,2,Other,
+17142.0,https://stripe.com/gb,,stripe.com,2,Other,
+72739.0,http://avax.news/pictures/127383,,avax.news,2,Other,
+14270.0,http://www.wunderground.com/weather/api/d/docs?d=data/astronomy,www,wunderground.com,2,Other,
+102843.0,https://www.digitec.ch/en/wiki/528,www,digitec.ch,2,Other,
+109966.0,https://www.monkeyuser.com/2020/election/,www,monkeyuser.com,2,Other,
+13744.0,http://www.cps.gov.uk/legal/d_to_g/fraud_act/#offences,www,cps.gov.uk,2,Other,
+13592.0,http://www.twitch.tv/,www,twitch.tv,2,Other,
+59806.0,http://bikeshed.com/,,bikeshed.com,2,Other,
+51887.0,http://www.medicalnewstoday.com/articles/73936.php,www,medicalnewstoday.com,2,Other,
+20576.0,http://www.linkonly.com/,www,linkonly.com,2,Other,

@@ -1,0 +1,101 @@
+,Unnamed: 0,Unnamed: 0.1,URL Name,URL Sub Domain,URL Domain,Repetition,Predicted Web Content,Decoded Web Content
+0,924,924,https://stackoverflow.com/help/on-topic,,stackoverflow.com,574,1,Opinion/Specialty
+1,122,122,https://stackoverflow.com/help/mcve,,stackoverflow.com,557,1,Opinion/Specialty
+2,1358,1358,https://stackoverflow.com/help/how-to-ask,,stackoverflow.com,461,1,Opinion/Specialty
+3,1287,1287,https://stackoverflow.com/questions/tagged/java,,stackoverflow.com,461,3,Question Answers
+4,1291,1291,https://stackoverflow.com/questions/tagged/javascript,,stackoverflow.com,435,3,Question Answers
+5,1044,1044,https://stackoverflow.com/questions/tagged/c%2b%2b,,stackoverflow.com,386,3,Question Answers
+6,3161,3161,https://stackoverflow.com/questions/tagged/python,,stackoverflow.com,385,3,Question Answers
+7,1362,1362,https://stackoverflow.com/questions/tagged/c,,stackoverflow.com,304,3,Question Answers
+8,633,633,https://stackoverflow.com/questions/tagged/c%23,,stackoverflow.com,257,3,Question Answers
+9,127,127,https://stackoverflow.com/questions/tagged/php,,stackoverflow.com,234,3,Question Answers
+10,817,817,https://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers,chat,stackoverflow.com,226,2,Other
+11,1316,1316,https://stackoverflow.com/questions/tagged/android,,stackoverflow.com,223,3,Question Answers
+12,1839,1839,https://stackoverflow.com/help/searching,,stackoverflow.com,182,1,Opinion/Specialty
+13,4366,4366,https://stackoverflow.com/questions/tagged/css,,stackoverflow.com,181,3,Question Answers
+14,3119,3119,https://stackoverflow.com/help/privileges/edit,,stackoverflow.com,180,1,Opinion/Specialty
+15,76,76,https://stackoverflow.com/tour,,stackoverflow.com,170,2,Other
+16,119,119,https://stackoverflow.com/help/bounty,,stackoverflow.com,169,1,Opinion/Specialty
+17,3453,3453,https://stackoverflow.com/questions/tagged/vba,,stackoverflow.com,167,3,Question Answers
+18,3974,3974,https://stackoverflow.com/questions/tagged/html,,stackoverflow.com,158,3,Question Answers
+19,829,829,https://meta.stackexchange.com/questions/225370/your-answer-is-in-another-castle-when-is-an-answer-not-an-answer,meta,stackexchange.com,144,3,Question Answers
+20,5184,5184,https://stackoverflow.com/help/minimal-reproducible-example,,stackoverflow.com,138,1,Opinion/Specialty
+21,1241,1241,https://stackoverflow.com/,,stackoverflow.com,137,2,Other
+22,1845,1845,https://stackoverflow.com/help/dont-ask,,stackoverflow.com,136,1,Opinion/Specialty
+23,13,13,https://stackoverflow.com/help,,stackoverflow.com,134,1,Opinion/Specialty
+24,4671,4671,https://stackoverflow.com/questions/tagged/r,,stackoverflow.com,134,3,Question Answers
+25,3160,3160,https://stackoverflow.com/questions/tagged/jquery,,stackoverflow.com,129,3,Question Answers
+26,1182,1182,https://stackoverflow.com/questions/tagged/regex,,stackoverflow.com,126,3,Question Answers
+27,4159,4159,https://stackoverflow.com/questions/tagged/excel,,stackoverflow.com,120,3,Question Answers
+28,2973,2973,https://stackoverflow.com/help/how-to-answer,,stackoverflow.com,119,1,Opinion/Specialty
+29,4620,4620,https://stackoverflow.com/questions/tagged/sql,,stackoverflow.com,114,3,Question Answers
+30,3736,3736,https://data.stackexchange.com/,data,stackexchange.com,113,2,Other
+31,7786,7786,https://stackoverflow.com/help/editing,,stackoverflow.com,112,1,Opinion/Specialty
+32,3975,3975,https://stackoverflow.com/questions/tagged/ios,,stackoverflow.com,111,3,Question Answers
+33,3965,3965,https://stackoverflow.com/help/privileges,,stackoverflow.com,109,1,Opinion/Specialty
+34,7167,7167,https://stackoverflow.com/questions/tagged/swift,,stackoverflow.com,108,3,Question Answers
+35,3108,3108,https://stackoverflow.com/help/privileges/moderator-tools,,stackoverflow.com,106,1,Opinion/Specialty
+36,17219,17219,https://stackoverflow.com/help/be-nice,,stackoverflow.com,106,1,Opinion/Specialty
+37,65,65,https://stackoverflow.com/review,,stackoverflow.com,104,1,Opinion/Specialty
+38,1670,1670,https://stackoverflow.com/help/whats-reputation,,stackoverflow.com,103,1,Opinion/Specialty
+39,5186,5186,https://stackoverflow.com/help/closed-questions,,stackoverflow.com,99,3,Question Answers
+40,3932,3932,https://stackoverflow.com/questions/tagged/sql-server,,stackoverflow.com,98,3,Question Answers
+41,16047,16047,https://stackoverflow.com/questions/tagged/google-apps-script,,stackoverflow.com,97,3,Question Answers
+42,1230,1230,https://stackoverflow.com/help/privileges/comment,,stackoverflow.com,93,1,Opinion/Specialty
+43,15383,15383,https://meta.stackexchange.com/questions/239190/when-to-burninate/239191#239191,meta,stackexchange.com,89,3,Question Answers
+44,3706,3706,https://stackoverflow.com/help/privileges/close-questions,,stackoverflow.com,86,3,Question Answers
+45,8345,8345,https://stackoverflow.com/questions/tagged/angularjs,,stackoverflow.com,85,3,Question Answers
+46,3212,3212,https://codereview.stackexchange.com/,codereview,stackexchange.com,84,2,Other
+47,4263,4263,https://stackoverflow.com/contact,,stackoverflow.com,84,2,Other
+48,5190,5190,https://stackoverflow.com/help/roomba,,stackoverflow.com,84,1,Opinion/Specialty
+49,2966,2966,https://stackoverflow.com/help/referencing,,stackoverflow.com,83,1,Opinion/Specialty
+50,85,85,https://softwareengineering.stackexchange.com/,softwareengineering,stackexchange.com,76,2,Other
+51,618,618,https://stackoverflow.com/help/privileges/trusted-user,,stackoverflow.com,76,6,User Outline
+52,3001,3001,https://stackoverflow.com/help/privileges/flag-posts,,stackoverflow.com,76,1,Opinion/Specialty
+53,114,114,https://meta.stackexchange.com/,meta,stackexchange.com,75,3,Question Answers
+54,1867,1867,https://stackoverflow.com/questions/tagged/windows,,stackoverflow.com,73,3,Question Answers
+55,3507,3507,https://stackoverflow.com/help/badges,,stackoverflow.com,73,1,Opinion/Specialty
+56,4619,4619,https://stackoverflow.com/questions/tagged/mysql,,stackoverflow.com,72,3,Question Answers
+57,3585,3585,https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem,meta,stackexchange.com,72,3,Question Answers
+58,959,959,https://stackoverflow.com/questions/tagged/.net,,stackoverflow.com,70,3,Question Answers
+59,7571,7571,https://stackoverflow.com,,stackoverflow.com,69,2,Other
+60,1258,1258,https://softwarerecs.stackexchange.com/,softwarerecs,stackexchange.com,69,2,Other
+61,4,4,https://stackoverflow.com/help/whats-meta,,stackoverflow.com,67,1,Opinion/Specialty
+62,729,729,https://meta.stackoverflow.com/questions/255583/what-can-i-do-when-getting-we-are-no-longer-accepting-questions-answers-from-th,meta,stackoverflow.com,66,3,Question Answers
+63,2919,2919,https://stackoverflow.com/questions,,stackoverflow.com,66,3,Question Answers
+64,933,933,http://stackoverflow.com,,stackoverflow.com,65,2,Other
+65,19825,19825,https://stackoverflow.com/questions/tagged/angular,,stackoverflow.com,63,3,Question Answers
+66,1455,1455,https://superuser.com/,,superuser.com,63,2,Other
+67,505,505,https://stackoverflow.com/jobs,,stackoverflow.com,62,2,Other
+68,3964,3964,https://stackoverflow.com/help/privileges/vote-down,,stackoverflow.com,61,1,Opinion/Specialty
+69,13067,13067,https://stackoverflow.com/questions/tagged/unity3d,,stackoverflow.com,61,3,Question Answers
+70,7128,7128,https://stackoverflow.com/questions/tagged/python-3.x,,stackoverflow.com,59,3,Question Answers
+71,4123,4123,https://stackoverflow.com/help/tagging,,stackoverflow.com,59,1,Opinion/Specialty
+72,163,163,https://stackoverflow.com/help/self-answer,,stackoverflow.com,58,1,Opinion/Specialty
+73,1167,1167,https://stackoverflow.com/tags,,stackoverflow.com,58,2,Other
+74,3541,3541,https://stackoverflow.com/questions/tagged/perl,,stackoverflow.com,56,3,Question Answers
+75,3102,3102,https://stackoverflow.com/questions/tagged/objective-c,,stackoverflow.com,56,3,Question Answers
+76,7091,7091,https://stackoverflow.com/questions/ask,,stackoverflow.com,56,3,Question Answers
+77,3538,3538,https://stackoverflow.com/questions/tagged/bash,,stackoverflow.com,56,3,Question Answers
+78,1871,1871,https://chat.stackoverflow.com/,chat,stackoverflow.com,55,2,Other
+79,51015,51015,https://stackoverflow.com/documentation,,stackoverflow.com,53,2,Other
+80,9,9,https://meta.stackoverflow.com/,meta,stackoverflow.com,53,3,Question Answers
+81,83985,83985,https://stackoverflow.com/conduct,,stackoverflow.com,53,2,Other
+82,36947,36947,https://stackoverflow.com/teams,,stackoverflow.com,53,2,Other
+83,37062,37062,https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/,,stackoverflow.blog,53,1,Opinion/Specialty
+84,6289,6289,https://stackoverflow.com/help/privileges/established-user,,stackoverflow.com,52,6,User Outline
+85,4672,4672,https://stackoverflow.com/questions/tagged/pandas,,stackoverflow.com,52,3,Question Answers
+86,4748,4748,https://stackoverflow.com/help/question-bans,,stackoverflow.com,52,3,Question Answers
+87,6042,6042,https://stackoverflow.com/questions/tagged/git,,stackoverflow.com,52,3,Question Answers
+88,178,178,https://meta.stackoverflow.com/questions/324070/what-is-the-process-for-tag-removal-burnination,meta,stackoverflow.com,51,3,Question Answers
+89,4143,4143,https://meta.stackoverflow.com/questions/265552/when-to-flag-an-answer-as-not-an-answer,meta,stackoverflow.com,51,3,Question Answers
+90,23060,23060,https://stackoverflow.com/help/promotion,,stackoverflow.com,51,1,Opinion/Specialty
+91,19424,19424,https://stackoverflow.com/questions/tagged/triggers,,stackoverflow.com,50,3,Question Answers
+92,4174,4174,https://stackoverflow.com/users/-1/community,,stackoverflow.com,50,6,User Outline
+93,5191,5191,https://meta.stackexchange.com/questions/5221/how-does-deleting-work-what-can-cause-a-post-to-be-deleted-and-what-does-that,meta,stackexchange.com,50,3,Question Answers
+94,4224,4224,https://codereview.stackexchange.com/help/on-topic,codereview,stackexchange.com,50,1,Opinion/Specialty
+95,6002,6002,https://stackoverflow.com/questions/tagged/string,,stackoverflow.com,48,3,Question Answers
+96,9733,9733,https://stackoverflow.com/questions/tagged/css3,,stackoverflow.com,47,3,Question Answers
+97,3111,3111,http://creativecommons.org/licenses/by-sa/3.0/,,creativecommons.org,47,4,Reference
+98,1051,1051,https://stackoverflow.com/help/privileges/create-tags,,stackoverflow.com,47,1,Opinion/Specialty
+99,3549,3549,https://stackoverflow.com/reputation,,stackoverflow.com,47,2,Other
